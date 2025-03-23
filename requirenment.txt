@@ -2,7 +2,8 @@ keras
 opencv_python_headless
 ipykernel
 tensorflow
+tensorflow==2.19.0
+streamlit
 matplotlib
 numpy
 pandas
-streamlit
