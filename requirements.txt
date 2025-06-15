@@ -1,7 +1,7 @@
 keras
 opencv_python_headless
 ipykernel
-tensorflow-cpu==2.12.0
+tensorflow==2.15.0
 streamlit
 matplotlib
 numpy
