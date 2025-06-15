@@ -1,5 +1,5 @@
-tensorflow==2.15.0
-keras==2.15.0
+tensorflow
+keras
 opencv_python_headless
 ipykernel
 streamlit
