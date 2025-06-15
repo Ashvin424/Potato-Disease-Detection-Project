@@ -1,7 +1,7 @@
-keras
+tensorflow==2.15.0
+keras==2.15.0
 opencv_python_headless
 ipykernel
-tensorflow-cpu==2.14.0
 streamlit
 matplotlib
 numpy
